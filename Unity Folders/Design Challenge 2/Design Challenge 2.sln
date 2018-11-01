@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Design Challenge 2.Plugins", "Design Challenge 2.Plugins.csproj", "{E4282B03-1A18-9C19-CA6A-5E075990492D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Design Challenge 2", "Design Challenge 2.csproj", "{9B298EC2-2F65-3812-9DF9-BCE3D23AD2A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Design Challenge 2.Editor.Plugins", "Design Challenge 2.Editor.Plugins.csproj", "{1864FFBA-DB7A-AAAE-249D-7BE4656E15CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4282B03-1A18-9C19-CA6A-5E075990492D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4282B03-1A18-9C19-CA6A-5E075990492D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4282B03-1A18-9C19-CA6A-5E075990492D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4282B03-1A18-9C19-CA6A-5E075990492D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B298EC2-2F65-3812-9DF9-BCE3D23AD2A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B298EC2-2F65-3812-9DF9-BCE3D23AD2A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B298EC2-2F65-3812-9DF9-BCE3D23AD2A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B298EC2-2F65-3812-9DF9-BCE3D23AD2A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1864FFBA-DB7A-AAAE-249D-7BE4656E15CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1864FFBA-DB7A-AAAE-249D-7BE4656E15CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1864FFBA-DB7A-AAAE-249D-7BE4656E15CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1864FFBA-DB7A-AAAE-249D-7BE4656E15CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
