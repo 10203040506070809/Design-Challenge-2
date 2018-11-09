@@ -2750,7 +2750,10 @@ GameObject:
   - component: {fileID: 1020413973}
   - component: {fileID: 1020413976}
   - component: {fileID: 1020413975}
+<<<<<<< HEAD
   - component: {fileID: 1020413977}
+=======
+>>>>>>> c73980ef5518c47dcd1a1ac40b30fdd72e43edb4
   m_Layer: 0
   m_Name: GameObject
   m_TagString: Untagged
@@ -2815,6 +2818,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f40f3561c7e7f2348af05a8aa32408db, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
 --- !u!82 &1020413977
 AudioSource:
   m_ObjectHideFlags: 0
@@ -2910,6 +2914,8 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+=======
+>>>>>>> c73980ef5518c47dcd1a1ac40b30fdd72e43edb4
 --- !u!4 &1027814545 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4083169001336778, guid: 7c9268566d5607d4fa77cdb2ef2d4cd1,
@@ -5250,6 +5256,7 @@ Prefab:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5e9e851c0e142814dac026a256ba2ac0, type: 2}
   m_IsPrefabAsset: 0
+<<<<<<< HEAD
 --- !u!1 &2013006534
 GameObject:
   m_ObjectHideFlags: 0
@@ -5374,6 +5381,8 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 18
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> c73980ef5518c47dcd1a1ac40b30fdd72e43edb4
 --- !u!1 &2027176011
 GameObject:
   m_ObjectHideFlags: 0
